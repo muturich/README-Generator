@@ -1,8 +1,8 @@
-# Hotel Management   
-[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)  
+# ReadMe Generator  
+[![License: Artistic-2.0](https://img.shields.io/badge/License-Perl-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)  
     
 ## Description  
-help people check in 
+Help Your Describe Your Project 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -13,18 +13,18 @@ help people check in
 ## Installation
     
 For this application to function, you must install the following: 
-Have window 10
+Node/VS Basic
     
 ## Usage
     
-got Information
+Glad your Pop Corn this application is fun to use
 ## Contributing
-as
+Not much
 ## Tests
-s
+Unit Testing
 ## License
-Boost License
+Perl License
 ## Questions
         
 If you have any questions, feel free to contact me at
-Github: https://github.com/muturich or Email: muturich@icloud.com
+Github: https://github.com/muturich or Email: calvinrich20@gmail.com
