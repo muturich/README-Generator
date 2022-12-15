@@ -14,6 +14,8 @@ Help Your Describe Your Project
     
 For this application to function, you must install the following: 
 Node/VS Basic
+
+Link to the video https://ik.imagekit.io/tsoc7yrwg/Untitled__Dec_15__2022_1_40_AM.webm?ik-sdk-version=javascript-1.4.3&updatedAt=1671090213705
     
 ## Usage
     
