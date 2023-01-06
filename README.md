@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
     
 ## Description  
-sa
+Help Your Describe Your Project
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -13,24 +13,22 @@ sa
 ## Installation
     
 For this application to function, you must install the following: 
-<<<<<<< HEAD
-Node/VS Basic
 
 Link to the video https://ik.imagekit.io/tsoc7yrwg/Untitled__Dec_15__2022_1_40_AM.webm?ik-sdk-version=javascript-1.4.3&updatedAt=1671090213705
-=======
-lla
->>>>>>> 3dbf09d (push the code for one more time)
-    
+
 ## Usage
-    
-sda
+Glab your Pop Corn this application is fun to use   
+
 ## Contributing
-as
+Not much
+
 ## Tests
-asa
+
+Unit Testing
+
 ## License
 MIT License
 ## Questions
         
 If you have any questions, feel free to contact me at
-Github: https://github.com/sas or Email: sdada
+Github: https://github.com/muturich  or Email: calvinrich20@gmail.com
