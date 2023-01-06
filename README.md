@@ -1,8 +1,8 @@
-# ReadMe Generator  
-[![License: Artistic-2.0](https://img.shields.io/badge/License-Perl-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)  
+# Math  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
     
 ## Description  
-Help Your Describe Your Project 
+sa
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -13,20 +13,24 @@ Help Your Describe Your Project
 ## Installation
     
 For this application to function, you must install the following: 
+<<<<<<< HEAD
 Node/VS Basic
 
 Link to the video https://ik.imagekit.io/tsoc7yrwg/Untitled__Dec_15__2022_1_40_AM.webm?ik-sdk-version=javascript-1.4.3&updatedAt=1671090213705
+=======
+lla
+>>>>>>> 3dbf09d (push the code for one more time)
     
 ## Usage
     
-Glad your Pop Corn this application is fun to use
+sda
 ## Contributing
-Not much
+as
 ## Tests
-Unit Testing
+asa
 ## License
-Perl License
+MIT License
 ## Questions
         
 If you have any questions, feel free to contact me at
-Github: https://github.com/muturich or Email: calvinrich20@gmail.com
+Github: https://github.com/sas or Email: sdada
