@@ -43,4 +43,4 @@ MIT License
 ## Questions
 
 If you have any questions, feel free to contact me at
-Github: https://github.com/sas or Email: sdada
+Github: https://github.com/muturich or Email: calvinrich20@gmail.com
