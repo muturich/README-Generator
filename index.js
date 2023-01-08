@@ -26,6 +26,12 @@ ${usage}
 ${contributions}
 ## Tests
 ${tests}
+
+## Video Guide
+
+To Use this application, please follow the guide as described in the video below:
+![Play the video](https://ik.imagekit.io/tsoc7yrwg/Untitled__Dec_15__2022_1_40_AM.webm?ik-sdk-version=javascript-1.4.3&updatedAt=1671090213705)
+
 ## License
 ${license} License
 ## Questions
